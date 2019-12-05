@@ -16,3 +16,8 @@ body {
 .visi-bility {
   display: none;
 }
+
+.click-able {
+  cursor: pointer;
+  color: rgb(0, 132, 255);
+}
